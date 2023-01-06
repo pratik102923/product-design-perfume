@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: hsl(158, 36%, 37%);
+    background-color: hsl(36, 89%, 76%);
+}
+
+h1{
+    font-family: 'Fraunces', serif;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+.container-fluid{
+    
+    margin-top: 150px;
+    width: 800px;
+    padding: 0;
+    background-color: hsl(30, 38%, 92%);
+    border-radius: 1rem;
+
+  
+}
+.per{
+    margin: 40px auto auto;
+}
+
+.pic{
+    border-bottom-left-radius: 1rem;
+    border-top-left-radius: 1rem;
+    height: 350px;
+    width: 380px;
+    
+   
+}
+#cr{
+    text-decoration: line-through;
+}
+button{
+    width: 250px;
+    margin-left: 50px;
+}
